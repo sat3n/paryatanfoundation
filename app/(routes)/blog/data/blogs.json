@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "title": "First Blog Post",
+    "image": "/globe.jpg",
+    "content": "This is the content of the first blog post."
+  },
+  {
+    "id": "2",
+    "title": "Second Blog Post",
+    "image": "/globe.jpg",
+    "content": [
+      "The 'Meal for Children' initiative by Paryatan NGO is a compassionate effort designed to address the nutritional needs of children who often face hardships in their daily lives. Many of these children travel between 2 to 5 kilometers to attend their coaching classes, a journey that can be strenuous, particularly when they do so on an empty stomach due to either time constraints or financial limitations. Understanding this critical issue, Paryatan NGO provides each child with a banana and a glass of milk every morning, ensuring they start their day with essential nutrients and energy.",
+      "This initiative is not just about filling stomachs but also about fostering a healthy lifestyle and supporting the educational pursuits of these children. Proper nutrition is vital for cognitive function and physical growth, directly impacting their ability to concentrate and perform well in their studies. Recognizing the additional challenges posed by the scorching summer months, Paryatan NGO occasionally supplements these morning meals with refreshing fruits like watermelon and pineapple and hydrating drinks such as Rooh Afza in the afternoon. These thoughtful additions help to keep the children hydrated and energized, combating the effects of the heat.",
+      "Through 'Meal for Children,' Paryatan NGO exemplifies how targeted nutritional support can make a significant difference in the lives of young learners, enabling them to attend classes regularly and focus on their education without the distraction of hunger. This initiative underlines the NGO's commitment to holistic child development, ensuring that basic needs are met to pave the way for a brighter future."
+    ]
+  }
+]

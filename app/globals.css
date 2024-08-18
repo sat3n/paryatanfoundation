@@ -1,0 +1,60 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: #FFE9AD;
+    color: gray-800;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #BD2720;
+}
+
+a {
+    color: #BD2720;
+    transition-duration: 300ms;
+}
+
+a:hover {
+    color: #FD542B;
+}
+
+button {
+    background-color: #BD2720;
+    color: white;
+    transition-duration: 300ms;
+}
+
+button:hover {
+    background-color: #FD542B;
+}
+
+nav a {
+    color: black;
+    transition: color 300ms;
+}
+
+nav a:hover {
+    color: #FD542B;
+}
+
+header {
+    background-color: #FFD256;
+}
+
+footer {
+    background-color: #BD2720;
+    color: white;
+}
+
+p{
+    text-align: justify;
+}
+
+  
